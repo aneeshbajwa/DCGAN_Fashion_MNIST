@@ -1,5 +1,5 @@
 # DCGAN_Fashion_MNIST
-Trained Deep Convolutional Generative Adversarial Netwrok (DCGAN) on tensorflow's Fashion MNIST dataset
+Trained Deep Convolutional Generative Adversarial Netwrok (DCGAN) on tensorflow's Fashion MNIST dataset to generate synthetic images
 
 Generator is an upsampling network with fractionally-strided convolutions
 
